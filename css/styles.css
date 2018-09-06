@@ -1,11 +1,10 @@
-p.tropical{
-  h2{
-    color: #f7325e;
-  }
-  ul{
-    color: #7dc410;
-  }
-  body{
-    font-family: fantasy;
-  }
+li.tropical{
+  font-family: fantasy;
+  color: #7dc410;
+}
+h3.tropical{
+  color: #f7325e;
+}
+body{
+  background-color: #424041c5
 }
