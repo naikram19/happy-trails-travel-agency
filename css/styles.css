@@ -8,3 +8,8 @@ h3.tropical{
 body{
   background-color: #424041c5
 }
+li.popular{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+  color: #fca608c5
+}
