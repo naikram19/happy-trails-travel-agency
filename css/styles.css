@@ -1,14 +1,16 @@
-li.tropical{
+h3{
+  color: #f7325e;
+}
+.tropical{
   font-family: fantasy;
   color: #7dc410;
 }
-h3.tropical{
-  color: #f7325e;
-}
+
+
 body{
-  background-color: #424041c5
+  background-color: #424041c5;
 }
-li.popular{
+.popular{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 120%;
   color: #fca608c5
